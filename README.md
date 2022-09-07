@@ -15,16 +15,16 @@ Data Source: https://datahack.analyticsvidhya.com/contest/practice-problem-big-m
 
 - Item_Identifier               object
 - Item_Weight                  float64
-Item_Fat_Content              object
-Item_Visibility              float64
-Item_Type                     object
-Item_MRP                     float64
-Outlet_Identifier             object
-Outlet_Establishment_Year      int64
-Outlet_Size                   object
-Outlet_Location_Type          object
-Outlet_Type                   object
-Item_Outlet_Sales            float64
+- Item_Fat_Content              object
+- Item_Visibility              float64
+- Item_Type                     object
+- Item_MRP                     float64
+- Outlet_Identifier             object
+- Outlet_Establishment_Year      int64
+- Outlet_Size                   object
+- Outlet_Location_Type          object
+- Outlet_Type                   object
+- Item_Outlet_Sales            float64
 Data can include source and high-level description (e.g. # obs)
 
 
