@@ -13,8 +13,8 @@ Here is where you state the business problem you were trying to solve
 ### Data:
 Data Source: https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/. Data has properties of the products and sales outlets of a food sales entity. Below are the columns and data types representing the properties:
 
-Item_Identifier               object
-Item_Weight                  float64
+- Item_Identifier               object
+- Item_Weight                  float64
 Item_Fat_Content              object
 Item_Visibility              float64
 Item_Type                     object
