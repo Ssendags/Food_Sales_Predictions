@@ -29,9 +29,15 @@ Data can include source and high-level description (e.g. # obs)
 
 
 ## Methods
-
-- Data preparation steps with explanation and justification for choices
-- 
+Data Exploration is done using info(), shape(), unique() methods. Data is checked and addressed for: duplicates, missing values, incorrect data types, inconsistencies and incorrectiness.
+- Duplicates one insitance of duplicate data is retained while the others are dropped.
+- Incoconsistencies are standardised
+- Ordinal data is encoded.
+- Train-test split is performed on the data.
+- Missing values imputed during preprocessing.
+- Categorical data converted to numerical data during preprocessing.
+- Data is prepared (preprocessed) for Machine Learning by using SimpleImputer, OneHotEncoder, Pipelines and Column Transformers.
+- Models are built: Linear Regression and Regression Tree.
 
 ## Results
 
