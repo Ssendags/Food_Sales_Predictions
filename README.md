@@ -28,7 +28,7 @@ Data Source: https://datahack.analyticsvidhya.com/contest/practice-problem-big-m
 ## Methods
 Data Exploration is done using info(), shape(), unique(), duplicated() methods. Data is checked and addressed for: duplicates, missing values, incorrect data types, inconsistencies and incorrectiness.
 - For duplicates one insitance of duplicated data is retained while the others are dropped.
-- Incoconsistencies are standardised
+- Inconsistencies are standardised
 - Ordinal data is encoded.
 - Train-test split is performed on the data.
 - Missing values imputed during preprocessing.
