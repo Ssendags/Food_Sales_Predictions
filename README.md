@@ -37,15 +37,13 @@ Data Exploration is done using info(), shape(), unique(), duplicated() methods. 
 - Models are built and evaluated: Linear Regression and Regression Tree.
 
 ## Results
-
-### Here are examples of how to embed images from your sub-folder
-
-
 #### Explanatory Data Analysis:
+
 
 ![image](https://user-images.githubusercontent.com/109603891/189351893-a837a708-3df7-4c4c-8a29-e4d7b0cee491.png)
 
 Outlet Sales by Outlet Type.
+
 
 ![image](https://user-images.githubusercontent.com/109603891/189352239-e20554c6-e6f7-4004-9316-7aa021370bcf.png)
 
@@ -57,6 +55,7 @@ From the above visualisations it is evident that Outlet sales have a pattern wit
 ![image](https://user-images.githubusercontent.com/109603891/189347042-6396daba-b8cb-4c6a-9692-70fd825f8b37.png)
 ![image](https://user-images.githubusercontent.com/109603891/189347767-e0840868-d31e-4d8c-960b-67f3be793de7.png)
 
+Visualisation of tuning using max_depths values and what R^2 values they give giving the best fit at max_depth 5.
 
 ## Model
 
