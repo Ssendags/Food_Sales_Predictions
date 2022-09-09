@@ -44,9 +44,11 @@ Data Exploration is done using info(), shape(), unique(), duplicated() methods. 
 #### Explanatory Data Analysis:
 
 ![image](https://user-images.githubusercontent.com/109603891/189351893-a837a708-3df7-4c4c-8a29-e4d7b0cee491.png)
+
 Outlet Sales by Outlet Type.
 
 ![image](https://user-images.githubusercontent.com/109603891/189352239-e20554c6-e6f7-4004-9316-7aa021370bcf.png)
+
 Outlet Sales by Outlet Location Type.
 
 From the above visualisations it is evident that Outlet sales have a pattern with each of Outlet Type and Outlet Location Type.
