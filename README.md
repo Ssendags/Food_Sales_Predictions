@@ -51,19 +51,24 @@ Outlet Sales by Outlet Location Type.
 
 From the above visualisations it is evident that Outlet sales have a pattern with each of Outlet Type and Outlet Location Type.
 
+
 #### Best Fitting Model:
+
 ![image](https://user-images.githubusercontent.com/109603891/189347042-6396daba-b8cb-4c6a-9692-70fd825f8b37.png)
 ![image](https://user-images.githubusercontent.com/109603891/189347767-e0840868-d31e-4d8c-960b-67f3be793de7.png)
 
 Visualisation of tuning using max_depths values and what R^2 values they give giving the best fit at max_depth 5.
 
+
 ## Model
 
 From the 3 models considered above the regression tree model has given better values (training = 60% and testing = 60%) making it the best fit, this as compared to R^2 which was found to be too low (Training = 1 and Testing = 0.00022) and RMSE which was found to be too high (Training = 8.32 and testing = 72.39x10**12).
 
+
 ## Recommendations:
 
 In this case the tuned (max_depth = 5) regression tree model shall be considered for deployment.
+
 
 ## Limitations & Next Steps
 
