@@ -2,7 +2,7 @@
 Data Science Course Project
 ## Preprocessing of Data and Creation of Sales Prediction Model
 
-**Denis Ssendagire**: 
+**Author**: Denis Ssendagire
 
 ### Business problem:
 
