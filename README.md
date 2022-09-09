@@ -42,7 +42,9 @@ Data Exploration is done using info(), shape(), unique(), duplicated() methods. 
 
 
 #### Visual 1 Title
-![sample image](project1_sample_image.png)
+![image](https://user-images.githubusercontent.com/109603891/189347042-6396daba-b8cb-4c6a-9692-70fd825f8b37.png)
+![image](https://user-images.githubusercontent.com/109603891/189347767-e0840868-d31e-4d8c-960b-67f3be793de7.png)
+
 
 > Sentence about visualization.
 
